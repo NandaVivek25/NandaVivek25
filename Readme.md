@@ -90,6 +90,7 @@ I’m especially interested in:
 - API design & security
 - Observability & production reliability
 - Clean, testable, maintainable code
+- Full Stack Development
 
 ---
 
