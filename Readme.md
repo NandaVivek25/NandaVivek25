@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nanda Vivek
+# 👋 Hello Everyone, I'm Nanda Vivek
 
 ### Software Engineer | Backend & Full-Stack Developer
 
